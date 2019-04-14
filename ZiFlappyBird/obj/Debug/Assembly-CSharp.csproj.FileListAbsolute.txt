@@ -1,0 +1,2 @@
+D:\New Folder\ZiFlappyBird\ZiFlappyBird\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\New Folder\ZiFlappyBird\ZiFlappyBird\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

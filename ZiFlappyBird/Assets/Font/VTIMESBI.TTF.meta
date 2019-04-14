@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 66d887d86d5d5324b9e5331f79693494
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VNI-Times
+  fontNames:
+  - VNI-Times
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33a3e388a98fbb1459fbfdef425a4ab0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
